@@ -4,7 +4,7 @@
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/ai-copilot-learning-hub?style=social)](https://github.com/yourusername/ai-copilot-learning-hub)
+[![GitHub stars](https://img.shields.io/github/stars/Chama2001/ai-copilot-learning-hub?style=social)](https://github.com/Chama2001/ai-copilot-learning-hub)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]()
 
 *A comprehensive, enterprise-grade, curated collection of free resources, tutorials, guides, and tools designed to master Artificial Intelligence, GitHub Copilot, and modern AI-driven development workflows.*
