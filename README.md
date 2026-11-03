@@ -47,7 +47,8 @@ ai-copilot-learning-hub/
 ├── 📁 docs/
 │   ├── 📄 getting-started.md  # Core AI fundamentals and setup guides
 │   ├── 📄 copilot-guide.md    # Advanced GitHub Copilot shortcuts and patterns
-│   └── 📄 architecture.md     # AI system design patterns and best practices
+│   ├── 📄 architecture.md     # AI system design patterns and best practices
+│   └── 📄 ai-safety.md        # AI safety, guardrails, and privacy best practices
 ├── 📁 prompt-engineering/
 │   ├── 📁 templates/          # Production-ready system prompts and few-shot examples
 │   └── 📄 cheat-sheet.md      # Quick reference guide for effective prompting
